@@ -1,0 +1,14 @@
+# ID|Judul|Artis|Genre|Mood|Rating
+1|moon river|frank ocean|Indie|Calm|5
+2|Hati-Hati di Jalan|Tulus|Pop|Sad|5
+3|Laskar Pelangi|Nidji|Pop Rock|Energetic|5
+4|Evaluasi|Hindia|Indie|Calm|5
+5|Sempurna|Andra and The Backbone|Pop Rock|Romantic|5
+6|Secukupnya|Hindia|Indie|Sad|4
+7|Manusia Kuat|Tulus|Pop|Energetic|4
+8|Kasih Putih|Glenn Fredly|R&B|Romantic|5
+9|clair de lune|Claude Debussy|Instrumental|Focused|5
+10|Bahagia|GAC|Pop|Happy|4
+11|Rehat|Kunto Aji|Indie|Calm|5
+12|Melompat Lebih Tinggi|Sheila On 7|Pop Rock|Happy|5
+13|River Flows in You|Yiruma|Instrumental|Focused|4

@@ -4,5 +4,71 @@
     "title": "cihuy",
     "artist": "aku",
     "mood": "Happy"
+  },
+  {
+    "id": 2,
+    "title": "Hati-Hati di Jalan",
+    "artist": "Tulus",
+    "mood": "Sad"
+  },
+  {
+    "id": 3,
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "mood": "Energetic"
+  },
+  {
+    "id": 4,
+    "title": "Lofi Rain Study",
+    "artist": "ChilledCow",
+    "mood": "Focused"
+  },
+  {
+    "id": 5,
+    "title": "Komang",
+    "artist": "Raim Laode",
+    "mood": "Romantic"
+  },
+  {
+    "id": 6,
+    "title": "River Flows in You",
+    "artist": "Yiruma",
+    "mood": "Calm"
+  },
+  {
+    "id": 7,
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "mood": "Happy"
+  },
+  {
+    "id": 8,
+    "title": "Glimpse of Us",
+    "artist": "Joji",
+    "mood": "Sad"
+  },
+  {
+    "id": 9,
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "mood": "Energetic"
+  },
+  {
+    "id": 10,
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "mood": "Romantic"
+  },
+  {
+    "id": 11,
+    "title": "Sunset Lover",
+    "artist": "Petit Biscuit",
+    "mood": "Calm"
+  },
+  {
+    "id": 12,
+    "title": "Time",
+    "artist": "Hans Zimmer",
+    "mood": "Focused"
   }
 ]
